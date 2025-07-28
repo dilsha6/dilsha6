@@ -4,8 +4,6 @@
   <img src="https://i.pinimg.com/736x/58/a2/f1/58a2f1569332c0754dc50ec230766615.jpg" />
 </p>
 
-<p align="center">If I cannot do great things, I can do small things in a great way.</p>
-
 ---
 
 ## 👩‍💻 About Me:
