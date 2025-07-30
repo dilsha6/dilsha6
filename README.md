@@ -11,7 +11,7 @@
 - 🔥 Life Hack: Share what you build and learn along the way!
 
 
-  <img src="https://i.pinimg.com/736x/58/a2/f1/58a2f1569332c0754dc50ec230766615.jpg" />
+  <img src="https://i.pinimg.com/736x/58/a2/f1/58a2f1569332c0754dc50ec230766615.jpg" width="200" height="200"/>
 ---
 
 ## 🛠️ Technologies & Tools
