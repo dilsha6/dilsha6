@@ -4,7 +4,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
   <div style="flex: 1;">
-    <h2>      ## 👩‍💻 About Me:</h2>
+    <h2>👩‍💻 About Me:</h2>
     <p>
 
 - 👩‍🎓 Recent B.Tech graduate in Information Technology  
@@ -14,10 +14,6 @@
 - 🔥 Life Hack: Share what you build and learn along the way!
 
     </p>
-  </div>
-
-  <div style="flex: 1; text-align: right;">
-    <img src="https://i.pinimg.com/736x/58/a2/f1/58a2f1569332c0754dc50ec230766615.jpg" width="150" style="border-radius: 50%;">
   </div>
 
 </div>
