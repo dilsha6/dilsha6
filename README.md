@@ -1,8 +1,11 @@
 <h1 align="center">Hello 👋 I'm Dilsha K</h1>
 
 ---
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-## 👩‍💻 About Me:
+  <div style="flex: 1;">
+    <h2>      ## 👩‍💻 About Me:</h2>
+    <p>
 
 - 👩‍🎓 Recent B.Tech graduate in Information Technology  
 - 💻 Currently building: Full-stack AI workflow builder, Health report analyzer  
@@ -10,8 +13,15 @@
 - 🤝 Looking to collaborate on impactful dev projects   
 - 🔥 Life Hack: Share what you build and learn along the way!
 
+    </p>
+  </div>
 
-  <img src="https://i.pinimg.com/736x/58/a2/f1/58a2f1569332c0754dc50ec230766615.jpg" width="200" height="200"/>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://i.pinimg.com/736x/58/a2/f1/58a2f1569332c0754dc50ec230766615.jpg" width="150" style="border-radius: 50%;">
+  </div>
+
+</div>
+
 ---
 
 ## 🛠️ Technologies & Tools
